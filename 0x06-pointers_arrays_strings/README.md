@@ -1,0 +1,1 @@
+This directory contains C programs that demonstrate my knowledge on pointers, arrays and strings.
